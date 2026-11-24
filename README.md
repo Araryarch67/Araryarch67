@@ -8,6 +8,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/Araryarch67/Riflay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-riflay-dark.svg"><img src="assets/project-riflay-light.svg" width="49%" alt="Riflay"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

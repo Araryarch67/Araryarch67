@@ -1,0 +1,401 @@
+{
+ "key": "da21413e",
+ "stars": 22,
+ "contributions": 897,
+ "repos": 24,
+ "followers": 2,
+ "languages": [
+  [
+   "Dart",
+   7409467
+  ],
+  [
+   "Rust",
+   2118271
+  ],
+  [
+   "TypeScript",
+   891921
+  ],
+  [
+   "Python",
+   474906
+  ],
+  [
+   "C++",
+   116668
+  ],
+  [
+   "Kotlin",
+   94423
+  ],
+  [
+   "CSS",
+   78738
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 43,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 27,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 21,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 27,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 22,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 16,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 25,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 35,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 9,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 27,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 24,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 23
+ },
+ "pins": [
+  {
+   "name": "axioo-control-center",
+   "url": "https://github.com/Araryarch67/axioo-control-center",
+   "text": "Linux Control Center Alternatives for Axioo and Pongo Laptops ( Pongo Studio X 2025 )",
+   "fork": false,
+   "stars": 5,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Riflay",
+   "url": "https://github.com/Araryarch67/Riflay",
+   "text": "Multiplatform Youtube Music Client",
+   "fork": false,
+   "stars": 4,
+   "language": "Dart",
+   "topics": [
+    "audiophile",
+    "music",
+    "music-player",
+    "youtube",
+    "hi-fi",
+    "monochrome",
+    "spotiflac"
+   ]
+  },
+  {
+   "name": "voice-changer",
+   "url": "https://github.com/Araryarch67/voice-changer",
+   "text": "リアルタイムボイスチェンジャー Realtime Voice Changer",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "axioo-control-center",
+   "url": "https://github.com/Araryarch67/axioo-control-center",
+   "text": "Linux Control Center Alternatives for Axioo and Pongo Laptops ( Pongo Studio X 2025 )",
+   "fork": false,
+   "stars": 5,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Riflay",
+   "url": "https://github.com/Araryarch67/Riflay",
+   "text": "Multiplatform Youtube Music Client",
+   "fork": false,
+   "stars": 4,
+   "language": "Dart",
+   "topics": [
+    "audiophile",
+    "music",
+    "music-player",
+    "youtube",
+    "hi-fi",
+    "monochrome",
+    "spotiflac"
+   ]
+  },
+  {
+   "name": "voice-changer",
+   "url": "https://github.com/Araryarch67/voice-changer",
+   "text": "リアルタイムボイスチェンジャー Realtime Voice Changer",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "OpenPlant",
+   "url": "https://github.com/Araryarch67/OpenPlant",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "pod-opencode",
+   "url": "https://github.com/Araryarch67/pod-opencode",
+   "text": "using opencode for pod ( projectlibre )",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "jackthesolo",
+   "url": "https://github.com/Araryarch67/jackthesolo",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ets-hackathon-be",
+   "url": "https://github.com/Araryarch67/ets-hackathon-be",
+   "text": "ets backend",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "pgadmin-manager",
+   "url": "https://github.com/Araryarch67/pgadmin-manager",
+   "text": "my little helper",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "questions-sisop",
+   "url": "https://github.com/Araryarch67/questions-sisop",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "sisop-materials",
+   "url": "https://github.com/Araryarch67/sisop-materials",
+   "text": "rangkuman bahasa indonesia",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zed-setup",
+   "url": "https://github.com/Araryarch67/zed-setup",
+   "text": "my zed setup",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "matugen.nvim",
+   "url": "https://github.com/Araryarch67/matugen.nvim",
+   "text": "Matugen color palette integration for Neovim",
+   "fork": true,
+   "stars": 1,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "neovim-setup",
+   "url": "https://github.com/Araryarch67/neovim-setup",
+   "text": "my personal config files for daily",
+   "fork": true,
+   "stars": 1,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Araryarch67",
+   "url": "https://github.com/Araryarch67/Araryarch67",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Kapro-backend",
+   "url": "https://github.com/Araryarch67/Kapro-backend",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "riflay-site",
+   "url": "https://github.com/Araryarch67/riflay-site",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "nbomber-tutorials",
+   "url": "https://github.com/Araryarch67/nbomber-tutorials",
+   "text": "team task",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "scoop-riflay",
+   "url": "https://github.com/Araryarch67/scoop-riflay",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "homebrew-riflay",
+   "url": "https://github.com/Araryarch67/homebrew-riflay",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Ruby",
+   "topics": []
+  },
+  {
+   "name": "valtracker-bot",
+   "url": "https://github.com/Araryarch67/valtracker-bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "animek-tui",
+   "url": "https://github.com/Araryarch67/animek-tui",
+   "text": "nonton anime di terminal :v",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Solaar",
+   "url": "https://github.com/Araryarch67/Solaar",
+   "text": "Linux device manager for Logitech devices",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "seb-linux",
+   "url": "https://github.com/Araryarch67/seb-linux",
+   "text": "Native Linux implementation of Safe Exam Browser built with Qt 6.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "shell",
+   "url": "https://github.com/Araryarch67/shell",
+   "text": "A fluid, morphing shell for your Linux desktop",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  }
+ ]
+}
