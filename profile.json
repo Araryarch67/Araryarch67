@@ -98,7 +98,7 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "tiny-weather",
+      "Riflay",
       "echo-bot",
       "dotfiles",
       "pixel-garden"
@@ -146,7 +146,7 @@
       {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "",
+        "url": "https://github.com/Araryarch67?tab=repositories",
         "style": "tonal"
       }
     ]
