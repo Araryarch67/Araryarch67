@@ -96,7 +96,7 @@
     ]
   },
   "projects": {
-    "source": "manual",
+    "source": "pinned",
     "repos": [
       "Riflay",
       "echo-bot",
@@ -128,7 +128,7 @@
     "items": [
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.com/araryarch"
       }
     ],
     "variant": "chip",
@@ -139,8 +139,8 @@
     "items": [
       {
         "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
+        "label": "Riflay Website",
+        "url": "https://riflay.my.id",
         "style": "filled"
       },
       {
