@@ -1,7 +1,7 @@
 {
- "key": "54772e6a",
- "stars": 22,
- "contributions": 898,
+ "key": "de3186ab",
+ "stars": 23,
+ "contributions": 900,
  "repos": 24,
  "followers": 2,
  "languages": [
@@ -123,16 +123,20 @@
    {
     "c": 5,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 23
  },
  "pins": [
@@ -150,7 +154,7 @@
    "url": "https://github.com/Araryarch67/Riflay",
    "text": "Multiplatform Youtube Music Client",
    "fork": false,
-   "stars": 4,
+   "stars": 5,
    "language": "Dart",
    "topics": [
     "audiophile",
@@ -170,24 +174,24 @@
    "stars": 2,
    "language": "Rust",
    "topics": []
+  },
+  {
+   "name": "OpenPlant",
+   "url": "https://github.com/Araryarch67/OpenPlant",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
   }
  ],
  "all": [
-  {
-   "name": "axioo-control-center",
-   "url": "https://github.com/Araryarch67/axioo-control-center",
-   "text": "Linux Control Center Alternatives for Axioo and Pongo Laptops ( Pongo Studio X 2025 )",
-   "fork": false,
-   "stars": 5,
-   "language": "Rust",
-   "topics": []
-  },
   {
    "name": "Riflay",
    "url": "https://github.com/Araryarch67/Riflay",
    "text": "Multiplatform Youtube Music Client",
    "fork": false,
-   "stars": 4,
+   "stars": 5,
    "language": "Dart",
    "topics": [
     "audiophile",
@@ -198,6 +202,15 @@
     "monochrome",
     "spotiflac"
    ]
+  },
+  {
+   "name": "axioo-control-center",
+   "url": "https://github.com/Araryarch67/axioo-control-center",
+   "text": "Linux Control Center Alternatives for Axioo and Pongo Laptops ( Pongo Studio X 2025 )",
+   "fork": false,
+   "stars": 5,
+   "language": "Rust",
+   "topics": []
   },
   {
    "name": "voice-changer",

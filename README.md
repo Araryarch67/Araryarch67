@@ -10,7 +10,7 @@
 
 <a href="https://github.com/Araryarch67/axioo-control-center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-axioo-control-center-dark.svg"><img src="assets/project-axioo-control-center-light.svg" width="49%" alt="axioo-control-center"></picture></a>&nbsp;<a href="https://github.com/Araryarch67/Riflay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-riflay-dark.svg"><img src="assets/project-riflay-light.svg" width="49%" alt="Riflay"></picture></a>
 
-<a href="https://github.com/Araryarch67/voice-changer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-voice-changer-dark.svg"><img src="assets/project-voice-changer-light.svg" width="49%" alt="voice-changer"></picture></a>
+<a href="https://github.com/Araryarch67/voice-changer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-voice-changer-dark.svg"><img src="assets/project-voice-changer-light.svg" width="49%" alt="voice-changer"></picture></a>&nbsp;<a href="https://github.com/Araryarch67/OpenPlant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openplant-dark.svg"><img src="assets/project-openplant-light.svg" width="49%" alt="OpenPlant"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
