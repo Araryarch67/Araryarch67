@@ -1,5 +1,5 @@
 {
- "key": "a25245a3",
+ "key": "f4b77138",
  "stars": 23,
  "contributions": 908,
  "repos": 24,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "Dart",
-   7409467
+   7441168
   ],
   [
    "Rust",
@@ -128,9 +128,13 @@
    {
     "c": 10,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
